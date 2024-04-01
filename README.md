@@ -1,42 +1,55 @@
 # sonata111
-программирование
 <html>
-    <body>
-        <header>
-            <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
-        </header>
-        <main>
-            <h1>Phone Repair<br/><img src="/uploads/2020/11/soldering-5117508_1280_0_1605278553.png" width="200px"/> <img src="/uploads/2020/11/tool-145376_1280_0_1605278554.png" width="200px"/> <img src="/uploads/2020/11/guy-1424911_1280_0_1605278554.png" width="200px" height="190px"/></h1>
-            <h2 id="price">Услуги и цены</h2>
-            <table>
-                <tr>
-                    <td>Название услуги</td>
-                    <td>Цена</td>
-                    <td>Срок выполнения</td>
-                </tr>
-                <tr>
-                    <td>Замена разъема <br/>зарядки</td>
-                    <td>750 руб.</td>
-                    <td>1 день</td>
-                </tr>
-                <tr>
-                    <td>Замена экрана</td>
-                    <td>от 1500 руб.</td>
-                    <td>от 2-х дней</td>
-                </tr>
-                <tr>
-                    <td>Перепрошивка</td>
-                    <td>от 1000 руб.</td>
-                    <td>1 день</td>
-                </tr>
-            </table>
-            <h2 id="reviews">Отзывы</h2>
-            <p><i>Наталья: </i>Сломался разъём для зарядки в новом iPhone. Починили оперативно. Была в офисе на Ремонтной улице.</p>
-            <p><i>Максим: </i>Нужно было срочно спасать телефон от вирусов. Думал всё — потеряю и данные и телефон. Спасибо ребятам на проспекте Прогресса — данные вытащили, телефон восстановили.</p>
-            <p><i>Юля: </i>Разбила экран планшета и сразу побежала в мастерскую на Ремонтной улице. Правда экрана для моей модели не оказалось в наличии, но ребята сделали заказ и телефон получила через три дня.</p>
-            <h2 id="photos">Фотографии</h2>
-            <img src="/uploads/2020/11/broken-3653897_1920_0_1605280313.jpg" height="250px"/> <img src="/uploads/2020/11/mobile-phone-2510529_1920_0_1605280314.jpg" height="250px"/><br/>
-            <img src="/uploads/2020/11/mobile-phone-4381895_1920_0_1605280472.jpg" width="790px"/>
-        </main>
-    </body>
+ <title>Музыка</title>
+ <body>
+  <h1>Что у нас есть?:</h1>
+  <p style="font-size:20px">-Популярная Музыка</p>
+  <p style="font-size:20px">-Топ Музыка</p>
+ <p style="font-size:20px">-Радио Музыка</p>
+<table>
+ <table style="border: 1px solid green">
+<tr>
+    <tr style="background: lightblue; color: blue">
+<td style="border: 1px solid green">Популярная Музыка</td>
+<td style="border: 1px solid green">Топ Музыка</td>
+<td style="border: 1px solid green">Радио Музыка</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">cleared</td>
+<td style="border: 1px solid green">Прощание</td>
+<td style="border: 1px solid green">Качели</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">ENOUGH!</td>
+<td style="border: 1px solid green">Монро</td>
+<td style="border: 1px solid green">Mwaki</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">Fashion</td>
+<td style="border: 1px solid green">Я РУССКИЙ</td>
+<td style="border: 1px solid green">ВЕТЕР</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">Стеклянная</td>
+<td style="border: 1px solid green">ЧАСТУШКА</td>
+<td style="border: 1px solid green">Jungle</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">HABIBATI</td>
+<td style="border: 1px solid green">Секрет</td>
+<td style="border: 1px solid green">Никотин</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">Татарин</td>
+<td style="border: 1px solid green">Стрелы</td>
+<td style="border: 1px solid green">Царица</td>
+</tr>
+<tr>
+<td style="border: 1px solid green">NANANA</td>
+<td style="border: 1px solid green">Матушка</td>
+<td style="border: 1px solid green">Stay</td>
+</tr>
+</table>
+
+ </body>
 </html>
